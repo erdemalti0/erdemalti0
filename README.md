@@ -37,7 +37,7 @@
 
 ### Featured Project
 
-[**Praxis**](https://github.com/erdemalti0/praxis) — Vibecoding tool built with Claude Code
+[**Praxis**](https://github.com/erdemalti0/praxis) — AI-powered development workspace for orchestrating multiple coding agents side-by-side
 
 ---
 
