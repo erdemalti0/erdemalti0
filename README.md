@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Hey+there!+I'm+Yusuf+Erdem+%F0%9F%91%8B;AI+Tool+Builder+%26+Vibe+Coder+%F0%9F%A4%96;No-Code+%7C+Low-Code+%7C+MCP+Servers+%F0%9F%94%A7;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=220&section=header&text=Yusuf%20Erdem&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=AI%20Tool%20Builder%20%7C%20Vibe%20Coder%20%7C%20MCP%20Enthusiast&descSize=16&descColor=8B949E&descAlignY=55" width="100%" />
+
+</div>
 
 <p align="center">
   <a href="https://github.com/erdemalti0"><img src="https://img.shields.io/badge/GitHub-erdemalti0-181717?style=for-the-badge&logo=github" /></a>
@@ -25,6 +27,7 @@
   <a href="https://cursor.com"><img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" /></a>
   <a href="https://n8n.io"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /></a>
   <a href="https://github.com/nicepkg/opencode"><img src="https://img.shields.io/badge/OpenCode-4285F4?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://openai.com/index/introducing-codex/"><img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" /></a>
@@ -35,22 +38,14 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=erdemalti0&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🚀 Featured Projects
 
-| Project | Description | Built With |
-|---------|-------------|------------|
-| [**Praxis**](https://github.com/erdemalti0/praxis) | Vibecoding tool built with Claude Code | Claude Code |
-| **CodeShield MCP** | Language-agnostic code analysis for AI coding agents | Claude Code |
-| **Nebula Agent Deploy** | AI agent deployment platform | Claude Code |
-| **Vibecoder Guard** | Security tool for vibe coding workflows | Claude Code |
+| Project | Description |
+|---------|-------------|
+| [**Praxis**](https://github.com/erdemalti0/praxis) | Vibecoding tool built with Claude Code |
+| **CodeShield MCP** | Language-agnostic code analysis for AI coding agents |
+| **Nebula Agent Deploy** | AI agent deployment platform |
+| **Vibecoder Guard** | Security tool for vibe coding workflows |
 
 ---
 
@@ -61,3 +56,5 @@
 <p align="center">
   <i>✨ "Code is like humor. When you have to explain it, it's bad." ✨</i>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer" width="100%" />
